@@ -1,6 +1,7 @@
 # AI Resume Tailor
 
 A one-day MVP application that uses AI to tailor your resume for specific job applications while preserving the original document formatting.
+demo: https://resume-builder-ekcstctmmvwqxuefonmxsc.streamlit.app/
 
 ## Features
 
@@ -13,15 +14,6 @@ A one-day MVP application that uses AI to tailor your resume for specific job ap
 - **Quality Assurance**: Validates output for factual accuracy and formatting integrity
 
 ## Quick Start
-
-### Prerequisites
-
-1. Python 3.9+
-2. LibreOffice (for PDF conversion)
-   - Ubuntu/Debian: sudo apt-get install libreoffice
-   - macOS: brew install --cask libreoffice
-   - Windows: Download from https://www.libreoffice.org/
-3. Anthropic API Key (get from https://console.anthropic.com/)
 
 ### Installation
 
